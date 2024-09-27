@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Joelkirabo
-- 👀 I’m interested in php...
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on php
+- 👀 I’m interested in JS...
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on JS
 - 📫 How to reach me:  kirabojoel001@gmail.com 
 
 <!---
